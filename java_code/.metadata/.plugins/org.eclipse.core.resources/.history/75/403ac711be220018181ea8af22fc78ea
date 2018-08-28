@@ -1,0 +1,15 @@
+package √Ê ‘Ã‚;
+
+public class a1 {
+	public static void main(String[] args){
+		int a=aplusb(488,233);
+		System.out.println(a);
+	}
+	public int aplusb(int a, int b) {
+        // write your code here
+		String a=Integer.toBinaryString(a);
+		String b=Integer.toBinaryString(b);
+		
+        return a^b;
+    }
+}

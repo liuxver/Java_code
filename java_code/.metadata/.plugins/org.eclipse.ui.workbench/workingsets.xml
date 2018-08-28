@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1516987695895_1" label="1" name="1"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1516987901855_2" label="a" name="a">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/1.9often字符串和文本io" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/1.18apple" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/1.7多维数组" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jinjie" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/chenjingjing" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/1.4循环" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/1.19二进制IO" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/1.13异常处理" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/1.10class_more" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/程静静实验三自写" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/1.16事件驱动程序设计" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/1.6一维数组" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/1.15图形" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/1.1" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/1.9" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/1.5方法" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/1" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/1.14抽象类和接口" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/1.11class__继承和多态" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/1.12图形用户界面基础" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/1.2" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/程静静实验三" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/1.20递归" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/1.3选择" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/1.17图形用户界面" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/1.8class" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1516983772228_0" label="Window Working Set" name="Aggregate for window 1516983772228"/>
+<mruList name="a"/>
+</workingSetManager>

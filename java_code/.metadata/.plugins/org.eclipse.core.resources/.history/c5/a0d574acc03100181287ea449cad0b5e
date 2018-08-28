@@ -1,0 +1,53 @@
+package √Ê ‘Ã‚;
+/**
+*
+*author:liuxv
+*student_number:15130120185
+*email:liuxver444@gmail.com
+*email1:1369058574@qq.com
+*/
+import java.util.Scanner;
+
+public class wangyi3 {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        int m = input.nextInt();
+        int n=input.nextInt();
+        double [][] work=new double[m][2];
+        for(int i=0;i<m;i++){
+        	work[i][0]=input.nextDouble();
+        	work[i][1]=input.nextDouble();
+        	
+        }
+        double [] ai=new double[n];
+        for(int i=0;i<n;i++){
+        	ai[i]=input.nextInt();
+        }
+        
+        double [] money=new double[n];
+        for(int i=0;i<n;i++){
+        	double temp=0;
+        	for(int j=0;j<m;j++){
+        		if(ai[i]>=work[j][0]){
+        			if(work[j][1]>temp){
+        				temp=work[j][1];
+        			}
+        		}
+        	}
+        	money[i]=temp;
+        	System.out.print(temp+" ");
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+package √Ê ‘Ã‚;
+
+public class a1 {
+	public static void main(String[] args){
+		int a;
+		a=aplusb(488,233);
+		System.out.println(a);
+	}
+	public static int aplusb(int a, int b) {
+        // write your code here
+		String a1=Integer.toBinaryString(a);
+		String b1=Integer.toBinaryString(b);
+		System.out.println(a1+' '+b1);
+		System.out.println(a1.length());
+        return 1;
+    }
+}

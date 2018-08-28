@@ -1,0 +1,17 @@
+package ÃæÊÔÌâ;
+
+public class a1 {
+	public static void main(String[] args){
+		int a;
+		a=aplusb(488,-233);
+		System.out.println(a);
+	}
+	public static int aplusb(int a, int b) {
+        // write your code here
+		String s;
+		for(int i=31;i>=0;i--){
+			System.out.println(a>>>i&1);
+		}
+        return 1;
+    }
+}

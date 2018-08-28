@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\programAPP\javaanzhuangmulu" version="1.8.0_161">
+<bootpath>
+<entry path="C:\programAPP\javaanzhuangmulu\lib\resources.jar"/>
+<entry path="C:\programAPP\javaanzhuangmulu\lib\rt.jar"/>
+<entry path="C:\programAPP\javaanzhuangmulu\lib\sunrsasign.jar"/>
+<entry path="C:\programAPP\javaanzhuangmulu\lib\jsse.jar"/>
+<entry path="C:\programAPP\javaanzhuangmulu\lib\jce.jar"/>
+<entry path="C:\programAPP\javaanzhuangmulu\lib\charsets.jar"/>
+<entry path="C:\programAPP\javaanzhuangmulu\lib\jfr.jar"/>
+<entry path="C:\programAPP\javaanzhuangmulu\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\programAPP\javaanzhuangmulu\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\programAPP\javaanzhuangmulu\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\programAPP\javaanzhuang" version="1.8.0_161">
+<bootpath>
+<entry path="C:\programAPP\javaanzhuang\lib\resources.jar"/>
+<entry path="C:\programAPP\javaanzhuang\lib\rt.jar"/>
+<entry path="C:\programAPP\javaanzhuang\lib\sunrsasign.jar"/>
+<entry path="C:\programAPP\javaanzhuang\lib\jsse.jar"/>
+<entry path="C:\programAPP\javaanzhuang\lib\jce.jar"/>
+<entry path="C:\programAPP\javaanzhuang\lib\charsets.jar"/>
+<entry path="C:\programAPP\javaanzhuang\lib\jfr.jar"/>
+<entry path="C:\programAPP\javaanzhuang\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\programAPP\javaanzhuang\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\programAPP\javaanzhuang\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\programAPP\java8\anzhuangwenjian" version="1.8.0_161">
+<bootpath>
+<entry path="C:\programAPP\java8\anzhuangwenjian\lib\resources.jar"/>
+<entry path="C:\programAPP\java8\anzhuangwenjian\lib\rt.jar"/>
+<entry path="C:\programAPP\java8\anzhuangwenjian\lib\sunrsasign.jar"/>
+<entry path="C:\programAPP\java8\anzhuangwenjian\lib\jsse.jar"/>
+<entry path="C:\programAPP\java8\anzhuangwenjian\lib\jce.jar"/>
+<entry path="C:\programAPP\java8\anzhuangwenjian\lib\charsets.jar"/>
+<entry path="C:\programAPP\java8\anzhuangwenjian\lib\jfr.jar"/>
+<entry path="C:\programAPP\java8\anzhuangwenjian\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\programAPP\java8\anzhuangwenjian\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\programAPP\java8\anzhuangwenjian\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

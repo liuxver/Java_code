@@ -1,0 +1,11 @@
+package Java上机第一次;
+
+public class SumOfArgs {
+	public static void main(String[] args){
+		int n=args.length;
+		/*for(int i=0;i<n;i++){
+			if(args[0].)
+		}*/
+		System.out.println(Integer.parseInt("aaa"));
+	}
+}

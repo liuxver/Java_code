@@ -1,0 +1,1 @@
+enter an int value (the program exists if the input is 0 ):

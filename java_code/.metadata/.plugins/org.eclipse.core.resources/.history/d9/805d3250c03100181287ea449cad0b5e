@@ -1,0 +1,23 @@
+package √Ê ‘Ã‚;
+/**
+*
+*author:liuxv
+*student_number:15130120185
+*email:liuxver444@gmail.com
+*email1:1369058574@qq.com
+*/
+import java.util.Scanner;
+
+public class wangyi3 {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        int m = input.nextInt();
+        int n=input.nextInt();
+        double [][] work=new double[m][2];
+        for(int i=0;i<m;i++){
+        	work[0]=input.nextDouble();
+        	work[1]=input.nextDouble();
+        	
+        }
+    }
+}

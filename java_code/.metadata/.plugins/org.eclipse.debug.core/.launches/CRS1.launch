@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="HW_1.CRS1"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="4 2025"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="面试题"/>
+</launchConfiguration>
